@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_014c73f5be028b714541a2e2d30f69c9bbd5d51a.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5ffb7056e7c99892fc0e7cf7fa62e20fa9bd2469.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9ed621d8a159085d66734da8118f189948dfd2fb">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d109aab557be954f324cdd36b33c8617d57d9d38.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_2c7e46ac46aa430bb618912ca6d689146bf12bc7.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_3b737dc059febf9d4ffb8affac966bed49bf6a76.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_9d9698dd98561c3dd267ce770e5f5b36a43a5412.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="070502d7e1b0fa90951c7f76bedaf068bf37bbf3">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/instant-run_1dff7868ccda064057662af8a9cbcb1c0058534e.jar" />
+    </item>
+    <item
+        jar="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Darcel/AndroidStudioProjects/Sors-moi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_84de0a2df26b7249e324fb6e03d1311d23ece400.jar" />
+    </item>
+
+</items>
