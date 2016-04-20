@@ -61,7 +61,6 @@ public class Parties_Activity extends AppCompatActivity
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Parties_Activity.this, Details_Activity.class);
-                //intent.putExtra(BOUTON_CHOISI, "Bar");
                 startActivity(intent);
             }
         });
@@ -105,17 +104,15 @@ public class Parties_Activity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        if (id == R.id.connect) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.settings) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.calendar) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.contact) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.infoslegales) {
 
         }
 

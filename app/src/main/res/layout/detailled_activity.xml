@@ -28,21 +28,21 @@
             android:text="Party details here... Party details here... Party details here... Party details here... Party details here... Party details here..."
             android:textSize="20sp"
             android:textColor="@color/colorAccent"/>
-        <LinearLayout
+    </ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:orientation="vertical">
+        <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:text="Adresse ici-même, 3 rue de l'adresse souhaitée, 340000 Montpellier"/>
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="10dp"
-                android:text="Ajouter à mon agenda"/>
-        </LinearLayout>
-    </ScrollView>
+            android:text="Adresse ici-même, 3 rue de l'adresse souhaitée, 340000 Montpellier"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:text="Ajouter à mon agenda"/>
+    </LinearLayout>
 
 </RelativeLayout>

@@ -9,4 +9,6 @@
     <string name="concerts">Concerts</string>
     <string name="action_settings">Paramètres</string>
     <string name="title_activity_parties_">Sors-moi!</string>
+    <string name="mentionslegales">Insérer ici une toutes les mentions légales nécessaires à l\'application...</string>
+    <string name="contactinfo">Insérer ici les infos de contact...</string>
 </resources>
